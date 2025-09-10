@@ -1,0 +1,3 @@
+venv/
+tools/generate_processed/*.csv
+tools/generate_raw/*.csv
